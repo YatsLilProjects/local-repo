@@ -1,1 +1,2 @@
-My new local repo
+My new local repo.
+Changed in feature 1 branch.
