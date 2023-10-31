@@ -1,2 +1,6 @@
 My new local repo.
+<<<<<<< HEAD
 Changed in feature 1 branch.<Dropdown>
+=======
+Changed in feature 1 branch.<Button>
+>>>>>>> main
